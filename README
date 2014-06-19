@@ -1,0 +1,2 @@
+Machine Learning Project - APMA 990
+Project created for a graduate level course in machine learning. Machine learning techniques are applied to three years worth of bike sharing data obtained from the city of Washington DC. The project predicts the daily demand of bike users based on the weather, the day of the week, the number of available docks and stations and past counts of bike users. Techniques applied include k-nearest neighbour, linear regression, and decision trees. 
